@@ -1,2 +1,4 @@
 # Songs-Lyrics-Analysis
- A breif analysis of song lyrics from top artists in the last decade.
+ A brief analysis of song lyrics from top artists in the last decade.
+
+ Scraped using Beautiful Soup.
